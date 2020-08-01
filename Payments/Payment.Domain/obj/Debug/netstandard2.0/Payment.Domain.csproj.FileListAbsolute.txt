@@ -1,0 +1,9 @@
+C:\rep\pruebas\coders\Payments\Payment.Domain\bin\Debug\netstandard2.0\Payment.Domain.deps.json
+C:\rep\pruebas\coders\Payments\Payment.Domain\bin\Debug\netstandard2.0\Payment.Domain.dll
+C:\rep\pruebas\coders\Payments\Payment.Domain\bin\Debug\netstandard2.0\Payment.Domain.pdb
+C:\rep\pruebas\coders\Payments\Payment.Domain\obj\Debug\netstandard2.0\Payment.Domain.AssemblyInfoInputs.cache
+C:\rep\pruebas\coders\Payments\Payment.Domain\obj\Debug\netstandard2.0\Payment.Domain.AssemblyInfo.cs
+C:\rep\pruebas\coders\Payments\Payment.Domain\obj\Debug\netstandard2.0\Payment.Domain.csproj.CoreCompileInputs.cache
+C:\rep\pruebas\coders\Payments\Payment.Domain\obj\Debug\netstandard2.0\Payment.Domain.dll
+C:\rep\pruebas\coders\Payments\Payment.Domain\obj\Debug\netstandard2.0\Payment.Domain.pdb
+C:\rep\pruebas\coders\Payments\Payment.Domain\obj\Debug\netstandard2.0\Payment.Domain.csprojAssemblyReference.cache

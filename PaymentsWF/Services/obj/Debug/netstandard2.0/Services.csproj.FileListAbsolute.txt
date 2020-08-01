@@ -1,0 +1,12 @@
+C:\rep\pruebas\coders\PaymentsWF\Services\bin\Debug\netstandard2.0\Services.deps.json
+C:\rep\pruebas\coders\PaymentsWF\Services\bin\Debug\netstandard2.0\Services.dll
+C:\rep\pruebas\coders\PaymentsWF\Services\bin\Debug\netstandard2.0\Services.pdb
+C:\rep\pruebas\coders\PaymentsWF\Services\bin\Debug\netstandard2.0\Payment.Domain.dll
+C:\rep\pruebas\coders\PaymentsWF\Services\bin\Debug\netstandard2.0\Payment.Domain.pdb
+C:\rep\pruebas\coders\PaymentsWF\Services\obj\Debug\netstandard2.0\Services.csprojAssemblyReference.cache
+C:\rep\pruebas\coders\PaymentsWF\Services\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+C:\rep\pruebas\coders\PaymentsWF\Services\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+C:\rep\pruebas\coders\PaymentsWF\Services\obj\Debug\netstandard2.0\Services.csproj.CoreCompileInputs.cache
+C:\rep\pruebas\coders\PaymentsWF\Services\obj\Debug\netstandard2.0\Services.csproj.CopyComplete
+C:\rep\pruebas\coders\PaymentsWF\Services\obj\Debug\netstandard2.0\Services.dll
+C:\rep\pruebas\coders\PaymentsWF\Services\obj\Debug\netstandard2.0\Services.pdb

@@ -1,0 +1,14 @@
+C:\rep\pruebas\coders\Payments\Payment.Services\bin\Debug\netstandard2.0\Payment.Services.deps.json
+C:\rep\pruebas\coders\Payments\Payment.Services\bin\Debug\netstandard2.0\Payment.Services.dll
+C:\rep\pruebas\coders\Payments\Payment.Services\bin\Debug\netstandard2.0\Payment.Services.pdb
+C:\rep\pruebas\coders\Payments\Payment.Services\bin\Debug\netstandard2.0\Payment.Core.dll
+C:\rep\pruebas\coders\Payments\Payment.Services\bin\Debug\netstandard2.0\Payment.Domain.dll
+C:\rep\pruebas\coders\Payments\Payment.Services\bin\Debug\netstandard2.0\Payment.Domain.pdb
+C:\rep\pruebas\coders\Payments\Payment.Services\bin\Debug\netstandard2.0\Payment.Core.pdb
+C:\rep\pruebas\coders\Payments\Payment.Services\obj\Debug\netstandard2.0\Payment.Services.csprojAssemblyReference.cache
+C:\rep\pruebas\coders\Payments\Payment.Services\obj\Debug\netstandard2.0\Payment.Services.AssemblyInfoInputs.cache
+C:\rep\pruebas\coders\Payments\Payment.Services\obj\Debug\netstandard2.0\Payment.Services.AssemblyInfo.cs
+C:\rep\pruebas\coders\Payments\Payment.Services\obj\Debug\netstandard2.0\Payment.Services.csproj.CoreCompileInputs.cache
+C:\rep\pruebas\coders\Payments\Payment.Services\obj\Debug\netstandard2.0\Payment.Services.csproj.CopyComplete
+C:\rep\pruebas\coders\Payments\Payment.Services\obj\Debug\netstandard2.0\Payment.Services.dll
+C:\rep\pruebas\coders\Payments\Payment.Services\obj\Debug\netstandard2.0\Payment.Services.pdb
